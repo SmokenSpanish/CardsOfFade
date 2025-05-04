@@ -17,7 +17,7 @@ This is a modern website built with a **fluid layout** — no media queries, no 
 - **Internationalization-Ready Layout**: Logical properties ensure better support for both LTR and RTL languages.
 
 ## Live Demo
-[View the Website]([https://example.com](https://smokenspanish.github.io/CardsOfFade/))
+[View the Website](https://smokenspanish.github.io/CardsOfFade/)
 
 ## License
 MIT License
